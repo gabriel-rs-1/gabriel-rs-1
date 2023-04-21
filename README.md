@@ -25,10 +25,10 @@ const developer = {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-GRS&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-GRS&hide=html&layout=compact&theme=dracula" alt="Gabriel Soares github stats"/>
 </a>
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-GRS&hide=html&layout=compact&theme=dracula" alt="Gabriel Soares github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-GRS&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 #### Para Contato!
