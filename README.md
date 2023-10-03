@@ -6,9 +6,9 @@
 
 ```javascript
 const developer = {
- name = "Gabriel Soares",
- occupationArea= "Desenvolvedor Front-end",
- technologies = ["JavaScript", "Typescript", "VueJs", "Java"] 
+ name: "Gabriel Soares",
+ occupationArea: "Desenvolvedor Front-end",
+ technologies: ["JavaScript", "Typescript", "VueJs", "Java"] 
 }
 ```
 
