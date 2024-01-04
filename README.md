@@ -7,7 +7,7 @@
 ```javascript
 const developer = {
  name: "Gabriel Soares",
- occupationArea: "Desenvolvedor Front-end",
+ occupationArea: "Software Developer",
  technologies: ["JavaScript", "Typescript", "VueJs", "Java"] 
 }
 ```
