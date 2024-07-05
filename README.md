@@ -8,7 +8,7 @@
 const developer = {
  name: "Gabriel Soares",
  occupationArea: "Software Developer",
- mainTechnologies: ["JavaScript", "Typescript", "VueJs", "Java", "Groovy on Grails"] 
+ mainTechnologies: ["JavaScript", "Typescript", "VueJs", "Java"] 
 }
 ```
 
